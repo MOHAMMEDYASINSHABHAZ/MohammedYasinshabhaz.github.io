@@ -187,7 +187,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<p>Copyright &copy; 2020 Saniya Parveez</p>
+				<p>Copyright &copy; 2020 Mohammed Yasin Shabhaz</p>
 				<ul class="social-icons">
 					<li><a href="#" class="fa fa-facebook"></a></li>
                     <li><a href="#" class="fa fa-google-plus"></a></li>
