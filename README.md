@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Mohammed Yasin Shabhaz - Data Engineer</title>
+	<title>Saniya Parveez - Data Engineer</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="">
@@ -48,7 +48,19 @@
 				    </li>
 					<li>
 						<i class="fab fa-github-square"></i> 
-					<a href="https://github.com/MohammedYasinShabhaz">github.com</a>
+					<a href="https://github.com/saniyaparveez">github.com</a>
+					</li>
+					<li>
+						<i class="fab fa-stack-overflow"></i>
+					<a href="https://stackoverflow.com/users/12077494/saniya-parveez">stackoverflow.com</a>
+					</li>
+					<li>
+						<i class="fab fa-kaggle"></i>
+						<a href="https://www.kaggle.com/saniyaparveez">Kaggle.com</a>
+					</li>
+					<li>
+						<i class="fab fa-medium"></i> 
+						<a href="https://medium.com/towards-artificial-intelligence/about">TowardsAI</a>
 					</li>
 				  </ul>
 				</p>
@@ -187,7 +199,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 col-sm-12">
-				<p>Copyright &copy; 2020 Mohammed Yasin Shabhaz</p>
+				<p>Copyright &copy; 2020 Saniya Parveez</p>
 				<ul class="social-icons">
 					<li><a href="#" class="fa fa-facebook"></a></li>
                     <li><a href="#" class="fa fa-google-plus"></a></li>
